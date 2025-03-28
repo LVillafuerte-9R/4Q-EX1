@@ -1,0 +1,16 @@
+body {
+ background-color: #321E1E;
+ color: white;
+ text-align: center;
+ padding: 20px;
+}
+
+.container {
+ background: #493628;
+ padding: 20px;
+ border-radius: 10px;
+}
+        
+.btn-custom {
+ margin: 10px;
+}
